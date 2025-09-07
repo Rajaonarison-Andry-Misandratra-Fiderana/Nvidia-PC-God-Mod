@@ -1,63 +1,83 @@
 # Nvidia PC God Mod
 
-**Nvidia PC God Mod** is a comprehensive Windows toolkit for gamers, modders, and power users. It provides advanced hardware detection, device management, and system tweaks to optimize performance, responsiveness, and stability. Focused on NVIDIA GPUs, joysticks, and peripherals, this suite gives you full control over your system.
+[![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge)](https://www.microsoft.com/windows)
+[![GPU Tweaks](https://img.shields.io/badge/GPU-NVIDIA-red?style=for-the-badge)](https://www.nvidia.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+I’ve always played on a 60Hz screen, and no matter what I did, I constantly experienced tearing whenever my FPS exceeded that limit. When my FPS reached 120, I noticed a new problem: it felt like my input lag had suddenly increased, as if my PC couldn’t keep up with my reactions.
+
+**Nvidia PC God Mod** was born from that frustration. This toolkit is designed for gamers and power users who want **perfect harmony between their hardware and performance**. It helps you detect your NVIDIA GPU, optimize joystick input, and apply precise tweaks so your system reacts instantly, tearing disappears, and every frame feels responsive.
+
+**Moreover, PC God Mod helps maintain more consistent FPS, reducing stutter and making the 1% lows much more stable. Not only does this tweak stabilize performance, it also allows you to push your GPU to its maximum potential.**
 
 ---
 
 ## 🔹 Features
 
-### **NvCleanInstall**
+<details>
+<summary>**NvCleanInstall**</summary>
 
-* Guides you to enter the correct Device ID and template for NVIDIA GPU drivers.
-* Ensures driver installation is precise and compatible.
-* Prevents installation errors or mismatched driver configurations.
+* Detects the correct Device ID and template for your NVIDIA GPU drivers.
+* Guides you to the exact configuration needed to avoid installation errors.
 
-### **HidUSBF**
+</details>
 
-* Optimizes USB input devices, including joysticks and gamepads.
-* Allows overclocking of joysticks for faster polling and improved responsiveness.
-* Detects potential conflicts and manages USB performance.
+<details>
+<summary>**HidUSBF**</summary>
 
-### **Troubleshooting**
+* Overclock your joysticks and gamepads for faster polling and smoother input.
+* Eliminate USB lag, conflicts, and responsiveness issues for competitive gaming.
 
-* Fix common issues with Bluetooth, Wi-Fi, and other connected devices.
-* Streamlines problem detection and resolution for smoother system operation.
+</details>
 
-### **Tweaking**
+<details>
+<summary>**Troubleshooting**</summary>
 
-A folder packed with tools to clean, manage, and optimize devices and system performance.
+* Fix common issues like Bluetooth or Wi-Fi connectivity problems.
+* Restore system stability and ensure your peripherals work flawlessly.
 
-* **Device Management**
+</details>
 
-  * View detailed information for each peripheral.
-  * Disable unnecessary services via Autorun.
-  * Clean and refresh devices in Device Manager.
+<details>
+<summary>**Tweaking**</summary>
 
-* **Scripts**
+A powerful set of tools to clean, manage, and optimize your system and devices.
 
-  * Apply deep system tweaks, including:
+**Device Management**
 
-    * Adjusting Timer Resolution
-    * Modifying Receive and Transmit buffers
-    * Improving system responsiveness
-    * Many other Windows performance optimizations
+* Inspect detailed information for every peripheral.
+* Disable unnecessary services using Autorun.
+* Clean and refresh devices in Device Manager.
 
-* **NVIDIA Tweak**
+**Scripts**
 
-  * Push your GPU to its maximum potential.
-  * Overclock GPU cores and memory.
-  * Force maximum performance and P0 state.
-  * Fine-tune settings for optimal gaming and rendering performance.
+* Apply deep system tweaks to improve responsiveness, including:
+
+  * Timer resolution adjustments
+  * Receive and transmit buffer optimization
+  * Various Windows performance enhancements
+
+**NVIDIA Tweak**
+
+* Push your GPU to its limits safely.
+* Overclock cores and memory, force maximum performance and P0 state.
+* Get smoother frame rates, lower latency, more stable FPS, and better overall GPU utilization.
+* **Maximize GPU performance for gaming and rendering workloads.**
+
+</details>
 
 ---
 
-## 🔹 Usage
+## 🔹 How it Works
 
-1. Navigate to the folder of the tool you want to use.
-2. Run the corresponding script or executable.
-3. Follow the on-screen instructions to detect devices, manage services, overclock hardware, or apply tweaks.
+1. Use **NvCleanInstall** to ensure your GPU drivers are perfectly configured.
+2. Overclock your input devices with **HidUSBF** to remove lag.
+3. Troubleshoot connection issues with **Troubleshooting**.
+4. Clean and manage devices with **Tweaking → Device Management**.
+5. Apply advanced tweaks via **Tweaking → Scripts** for maximum system responsiveness.
+6. Extract full GPU performance with **NVIDIA Tweak**, eliminating tearing, improving frame delivery, stabilizing FPS, and boosting GPU to its maximum potential.
 
-> **Note:** Always create a system restore point before applying deep tweaks, overclocking, or modifying drivers. Administrative privileges are required for many operations.
+> **Note:** Always create a system restore point before deep tweaks, overclocking, or driver modifications. Administrative privileges are required.
 
 ---
 
@@ -72,13 +92,10 @@ A folder packed with tools to clean, manage, and optimize devices and system per
 
 ## 🔹 Recommended Workflow
 
-1. Start with **NvCleanInstall** to ensure GPU drivers are set correctly.
-2. Use **HidUSBF** to overclock and optimize joysticks.
-3. Run **Troubleshooting** for any system connectivity issues.
-4. Explore **Tweaking → Device Management** to clean and manage peripherals.
-5. Apply **Tweaking → Scripts** for advanced system performance optimizations.
-6. Use **NVIDIA Tweak** to maximize GPU performance safely.
+1. Start with **NvCleanInstall** to ensure GPU drivers are correct.
+2. Overclock your input devices with **HidUSBF**.
+3. Troubleshoot connectivity issues with **Troubleshooting**.
+4. Manage and clean peripherals with **Tweaking → Device Management**.
+5. Apply advanced system tweaks via **Tweaking → Scripts**.
+6. Unlock maximum GPU performance with **NVIDIA Tweak**.
 
-
-
-Veux‑tu que je fasse ça ?
