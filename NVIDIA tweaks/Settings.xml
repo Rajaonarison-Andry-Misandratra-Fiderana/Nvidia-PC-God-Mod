@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<UserSettings>
+  <WindowTop>-18</WindowTop>
+  <WindowLeft>-18</WindowLeft>
+  <WindowWidth>1022</WindowWidth>
+  <WindowHeight>650</WindowHeight>
+  <WindowState>Maximized</WindowState>
+  <ShowCustomizedSettingNamesOnly>true</ShowCustomizedSettingNamesOnly>
+  <ShowScannedUnknownSettings>false</ShowScannedUnknownSettings>
+  <HiddenSettingGroups>
+    <string>6 - SLI</string>
+    <string>8.5 - Game Profiles</string>
+    <string>2.5 - Present Method and Modes</string>
+  </HiddenSettingGroups>
+  <DisableUpdateCheck>true</DisableUpdateCheck>
+</UserSettings>
